@@ -7,9 +7,8 @@
 A few projects post are posted on the [Nyc DataScience Academy website](http://blog.nycdatascience.com/author/chabir/).
 Code and more recent Machine Learning projects are available on [my github](https://github.com/chabir).
 
-## LinkedIn and Github:
+## LinkedIn:
 [LinkedIn profile](https://www.linkedin.com/xcapdepon).
-
 
 ## Short bio:
 I studied engineering at EIVP, Ecole des Ingenieurs de la Ville de Paris (Urban Sciences) after three years of intensive maths and physics. Following the path of my grand father, I studied hydraulic in particular and fluids mechanics with a strong interest for modeling and coding. I had a lot during my 4 internships in the sewages and diverse water department to learn the job.
