@@ -17,12 +17,13 @@ I studied engineering at EIVP, Ecole des Ingenieurs de la Ville de Paris (Urban 
 Even though my passion lies with mathematics, physics, finance and economics I've recently developed a strong interest for data science and machine learning. During my previous experience, I enjoyed very much working with large spreadsheets, developing financial model cash flows under numerous scenarios and digging into financial statement of insurance companies to understand the behaviors of various financial variables. I also worked with actuaries who seemed to be really comfortable aggregating different concepts into a single model, but now, I see data projects and modeling differently particularly as the scale of the data can be multiplied. After attending a few meetup (Open Data by Vivian and Data Driven by Matt Turk) in New York, I decided to take the actuarial exams to be more comfortable with statistics and probabilities and to take the NYC Data Science 3 months bootcamp during the summer 2015. I am still amazed by all the coding techniques I've learned. All of the possibilities for data and modeling that it opened and Machine learning is also really amazing tool. I can now spend hours and hours trying to figure out how to find the best path using coding and my own intuition to solve larger scale data related problems in a diversified field such as transportation, finance, marketing, advertizing...
 
 ## Kaggle:
-Over the last six months, I became addicted to the Kaggle competition (world biggest data science and machine learning online platform) where I ranked 812th over 520,000+ participants.
-33rd / 2926 -- BNP Paribas Cardif Claims Management
-40th / 2619 -- Prudential Life Insurance Assessment
+Over the last six months, I became addicted to the Kaggle competition (world biggest data science and machine learning online platform) where I ranked 812th over 520,000+ participants: 
+33rd / 2926 -- BNP Paribas Cardif Claims Management; 
+40th / 2619 -- Prudential Life Insurance Assessment.
 
 [Kaggle profile](https://www.kaggle.com/chabir).
 
 ## Other information:
 I love DIY, wind surfing, hicking and Kaggle. 
+
 Content 2016 Xavier Capdepon
