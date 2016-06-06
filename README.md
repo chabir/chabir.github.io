@@ -1,7 +1,7 @@
 ## Xavier Capdepon
 ##Engineer, Data Scientist and (still) actuarial student
 
-## Welcome on my personal page !
+
 
 ## Posts and Projects:
 A few projects post are posted on the [Nyc DataScience Academy website](http://blog.nycdatascience.com/author/chabir/).
