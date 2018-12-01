@@ -21,7 +21,7 @@ Over the last six months, I became addicted to the Kaggle competition (world big
 33rd / 2926 -- BNP Paribas Cardif Claims Management; 
 40th / 2619 -- Prudential Life Insurance Assessment.
 
-[Kaggle profile](https://www.kaggle.com/chabir).
+[Kaggle profile](https://www.kaggle.com/chabir/competitions).
 
 ## Other information:
 I love DIY, wind surfing, hicking and Kaggle. 
